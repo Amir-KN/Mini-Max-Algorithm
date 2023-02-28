@@ -260,7 +260,7 @@ if __name__=="__main__":
 
     game = Sim(minimax_depth=int(argv[1]), prune=True, gui=bool(int(argv[2])))
     results = {"red": 0, "blue": 0}
-    n = 1
+    n = 2
     s_time = time.time()
 
     for i in range(n):
