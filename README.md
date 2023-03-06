@@ -1,5 +1,10 @@
 # Mini-Max Algorithm
-Implement the Mini-Max Algorithm for a interesting game.
-Note : If you want watch game in graphical mode, you should install tkinter.<br />
-You can run game with : python3 GAME.py {depth} {flag} <br />
-flag : if flag is 0 -> not graphical mode, if flag is 1 -> graphical mode
+Implement the **Mini-Max** Algorithm for a interesting game.<br />
+You can run game with : 
+```text
+python3 GAME.py <depth> <flag>
+``` 
+`flag` : Specifies  that the game run in graphical mode or not. <br />
+- if `flag = 1` game run in *graphical* mode and if `flag = 1` you can see the result of game only in terminal.<br />
+
+**Note that if you want watch game in graphical mode, you should install [tkinter package](https://docs.python.org/3/library/tkinter.html#module-tkinter)**.
