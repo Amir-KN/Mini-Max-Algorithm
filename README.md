@@ -1,7 +1,7 @@
 # Mini-Max Algorithm
 Implement the **Mini-Max** Algorithm for a interesting game.<br />
 You can run game with : 
-```text
+```bash
 python3 GAME.py <depth> <flag>
 ``` 
 `flag` : Specifies  that the game run in graphical mode or not. <br />
